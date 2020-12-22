@@ -14,7 +14,7 @@ $ open CardScanPodExample.xcworkspace
 
 ## CardScan using Swift Package Manager (SPM)
 
-This repo already set up SPM for the project and configured it to use our main repo `https://github.com/getbouncer/cardscan-ios` with a policy for using version `2.0.2 - Next Major`. To test out the example app:
+This repo already set up SPM for the project and configured it to use our main repo `https://github.com/getbouncer/cardscan-ios.git` with a policy for using version `2.0.2 - Next Major`. To test out the example app:
 
 ```bash
 $ cd CardScanSpmExample
