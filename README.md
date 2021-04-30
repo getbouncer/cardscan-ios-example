@@ -20,3 +20,13 @@ This repo already set up SPM for the project and configured it to use our main r
 $ cd CardScanSpmExample
 $ open CardScanSpmExample.xcodeproj
 ```
+
+## CardScan UI Customization using Cocoapods
+
+This repo includes a sample Podfile that you can use, all you need to do is to install the CardScan Cocoapod. To test out the example app:
+
+```bash
+$ cd CardScanUICustomizationExample
+$ pod update
+$ open CardScanUICustomizationExample.xcworkspace
+```
